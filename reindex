@@ -1,0 +1,5 @@
+sudo mdutil -E /
+
+
+ 
+echo -e  "Hang tight! Your Mac is being reindexed. \n  This may take a while depending on your hard drive space. \n It is normal for your Mac to heat up during this process, or to appear slow.\n Patience is a virtue."
